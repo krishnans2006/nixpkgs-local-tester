@@ -1,0 +1,26 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1761021076,
+        "narHash": "sha256-UN4RRWCwzy3KHRm8PXyDWxzLZBaVzcOhE4kzR+bOK/E=",
+        "ref": "refs/heads/chipwhisperer",
+        "rev": "0533cc649e140c596fd54784414feccb5a57e9f7",
+        "revCount": 880948,
+        "type": "git",
+        "url": "file:///home/krishnan/Tech/Hobby/nixpkgs"
+      },
+      "original": {
+        "type": "git",
+        "url": "file:///home/krishnan/Tech/Hobby/nixpkgs"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
